@@ -9,17 +9,17 @@ Implementation of parallel Stochastic gradient decent based on *Zinkevich, M., W
 * Mpi4py
 
 # Linear regression -
-![alt text](1.png)
+![alt text](png/1.png)
 
 # Parallel Stocastic Gradient decent -
-![alt text](2.png)
+![alt text](png/2.png)
 
 
 ##### Fig 1
-![alt text](3.png)
+![alt text](png/3.png)
 
 ##### Fig 2
-![alt text](4.png)
+![alt text](png/4.png)
 
 
 # Observations and results : 
@@ -33,10 +33,10 @@ To run the file use the following command from the terminal :
 ```python
 mpiexec -n numprocs python -m mpi4py filename.py
 ```
-![alt text](5.png)
+![alt text](png/5.png)
 
 
-![alt text](6.png)
+![alt text](png/6.png)
 
 
 
