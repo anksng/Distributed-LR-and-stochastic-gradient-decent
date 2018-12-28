@@ -33,6 +33,8 @@ To run the file use the following command from the terminal :
 ```python
 mpiexec -n numprocs python -m mpi4py filename.py
 ```
+
+## Results
 ![alt text](png/5.png)
 
 
